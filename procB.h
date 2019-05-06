@@ -1,0 +1,6 @@
+#ifndef SOPROJECTRC_PROCB_H
+#define SOPROJECTRC_PROCB_H
+
+int procB();
+
+#endif //SOPROJECTRC_PROCB_H

@@ -1,0 +1,6 @@
+#ifndef SOPROJECTRC_PROCA_H
+#define SOPROJECTRC_PROCA_H
+
+int procA();
+
+#endif //SOPROJECTRC_PROCA_H
